@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     fill="none">
+
+  <path
+      d="M344 116
+         H208
+         C184 116 168 132 168 156
+         V188
+         C168 212 184 228 208 228
+         H304
+         C328 228 344 244 344 268
+         V300
+         C344 324 328 340 304 340
+         H168"
+
+      stroke="white"
+      stroke-width="6"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+  <path
+      d="M168 340
+         H304
+         C328 340 344 356 344 380
+         V412
+         C344 436 328 452 304 452
+         H168"
+
+      stroke="white"
+      stroke-width="6"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+</svg>
