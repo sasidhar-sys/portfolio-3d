@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
+  <!-- Outer A-Frame Outline -->
+  <path d="M 250 50 L 30 450 H 120 L 138 418 H 362 L 380 450 H 470 Z" 
+        stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Inner A-Frame Triangular Cutout -->
+  <path d="M 250 185 L 165 375 H 335 Z" 
+        stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

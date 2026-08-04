@@ -1,4 +1,7 @@
-console.log("BlueprintLoader loaded");
+console.log("########################");
+console.log("MY BLUEPRINT LOADER IS RUNNING");
+console.log("########################");
+// Alert removed
 
 class BlueprintLoader {
   constructor(container) {
@@ -324,6 +327,10 @@ STATUS READY
         opacity:1,
         duration:.45
       },"<")
+      .to(this.title,{
+        opacity:1,
+        duration:.45
+      },"<")
 
       .to(this.circleElements,{
         strokeDashoffset:0,
@@ -403,6 +410,10 @@ STATUS READY
           opacity:0,
           duration:0.25
       })
+      .to(this.title,{
+          opacity:0,
+          duration:0.25
+      },"<")
 
       .to(this.circles,{
           opacity:0,

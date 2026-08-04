@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 400 400"
+     fill="none">
+
+    <path
+        id="outer"
+        d="
+        M130 60
+        H260
+        L300 100
+        V150
+        H255
+        V120
+        H170
+        V170
+        H250
+        L300 220
+        V300
+        L260 340
+        H130
+        L90 300
+        V250
+        H135
+        V280
+        H220
+        V230
+        H140
+        L90 180
+        V100
+        Z"
+        stroke="white"
+        stroke-width="2"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+
+</svg>
